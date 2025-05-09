@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = toby0897
+  email = toby0897@gmail.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
@@ -13,7 +13,7 @@
 [init]
   defaultBranch = master
 [web]
-  browser = google-chrome
+  browser = firefox
 [credential]
   helper = osxkeychain
 [push]
