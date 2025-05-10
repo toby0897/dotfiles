@@ -108,8 +108,8 @@ defaults write com.apple.screencapture disable-shadow -bool true
 # For other paths, use `PfLo` and `file:///full/path/here/`
 # Lets not actually set the desktop and instead keep it as the 
 # home folder as id perfer that.
-defaults write com.apple.finder NewWindowTarget -string "PfDe"
-defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/"
+#defaults write com.apple.finder NewWindowTarget -string "PfDe"
+#defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/"
 
 # Show icons for hard drives, servers, and removable media on the desktop
 defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
